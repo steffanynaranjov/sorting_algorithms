@@ -114,9 +114,6 @@ typedef struct listint_s
       </span>
   </h4>
 
-  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" frameborder="0" allowfullscreen></iframe><br />
-<br /></p>
-
 <p>Write a function that sorts an array of integers in ascending order using the <a href="/rltoken/fCItpIfgmE07fFbHBUToeg" title="Bubble sort" target="_blank">Bubble sort</a> algorithm</p>
 
 <h4 class="task">
@@ -125,9 +122,6 @@ typedef struct listint_s
         mandatory
       </span>
   </h4>
-
-  <p>src="https://www.youtube.com/embed/ROalU379l3U"</p>
-
 <p>Write a function that sorts a doubly linked list of integers in ascending order using the <a href="/rltoken/4ueB1I1MkNypoTBXR0YX3g" title="Insertion sort" target="_blank">Insertion sort</a> algorithm</p>
 
 <h4 class="task">
@@ -136,9 +130,6 @@ typedef struct listint_s
         mandatory
       </span>
   </h4>
-
-  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Ns4TPTC8whw" frameborder="0" allowfullscreen></iframe><br />
-<br /></p>
 
 <p>Write a function that sorts an array of integers in ascending order using the <a href="/rltoken/_DodgdySm5bPerpQm1LhwQ" title="Selection sort" target="_blank">Selection sort</a> algorithm</p>
 
