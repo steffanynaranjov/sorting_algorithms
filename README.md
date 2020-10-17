@@ -126,8 +126,7 @@ typedef struct listint_s
       </span>
   </h4>
 
-  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/ROalU379l3U" frameborder="0" allowfullscreen></iframe><br />
-<br /></p>
+  <p>src="https://www.youtube.com/embed/ROalU379l3U"</p>
 
 <p>Write a function that sorts a doubly linked list of integers in ascending order using the <a href="/rltoken/4ueB1I1MkNypoTBXR0YX3g" title="Insertion sort" target="_blank">Insertion sort</a> algorithm</p>
 
