@@ -25,7 +25,8 @@ void sort_array(int *array, int x, int y, int size)
  * @x: left side
  * @y: right side
  * @size: size of array
- * Return - sorted
+ * Description - sort an array partition
+ * Return: sorted array
  */
 int sort_part(int *array, int x, int y, int size)
 {
